@@ -34,6 +34,12 @@ namespace Translator
                 case "lamb":
                     Console.WriteLine("ягня");
                     break;
+                case "soul":
+                    Console.WriteLine("душа");
+                    break;
+                case "dark":
+                    Console.WriteLine("темний");
+                    break;
                 default:
                     Console.WriteLine("Sorry, but you can't translate this");
                     break;
