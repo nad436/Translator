@@ -30,8 +30,11 @@ namespace Translator
                 case "мовчання":
                     Console.WriteLine("silence");
                     break;
-                case "ягня":
-                    Console.WriteLine("lamb");
+                case "душа":
+                    Console.WriteLine("soul");
+                    break;
+                case "темний":
+                    Console.WriteLine("dark");
                     break;
                 default:
                     Console.WriteLine("Вибач, але ти не можеш перевести це");
